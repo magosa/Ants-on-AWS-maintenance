@@ -1,0 +1,14 @@
+{
+  "name": "redis-sample",
+  "version": "1.0.0",
+  "description": "Redis connecting sample script",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magosa",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
